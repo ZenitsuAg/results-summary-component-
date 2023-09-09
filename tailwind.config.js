@@ -22,18 +22,22 @@ export default {
         'bg-light-slate-blue': 'hsl(252, 100%, 67%)',
         'bg-light-royal-blue': 'hsl(241, 81%, 54%)',
 
-        'circle-violet-blue:': 'hsla(256, 72%, 46%, 1)',
-        'circle-persian-blue:' : 'hsla(241, 72%, 46%, 0)',
+        'circle-violet-blue': 'hsl(246, 86%, 57%)',
+        'circle-persian-blue' : 'hsl(255, 71%, 46%)',
 
         // Neutral
         'white': 'hsl(0, 0%, 100%)',
         'pale-blue': 'hsl(221, 100%, 96%)',
         'light-lavender': 'hsl(241, 100%, 89%)',
         'dark-gray-blue': 'hsl(224, 30%, 27%)',
+
+        // special
+        'special-1' : 'hsl(252, 94%, 63%)',
+        'special-2' : 'rgba(46, 43, 233, 1)',
       },
       fontFamily: {
-        'hanken': ['"Hanken Grotesk"']
-      }
+        'hanken': ['"Hanken Grotesk", cursive']
+      },
     },
   },
   plugins: [],
