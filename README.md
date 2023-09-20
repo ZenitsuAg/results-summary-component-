@@ -12,7 +12,6 @@ This is a solution to the [Results summary component challenge on Frontend Mento
     - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
-    - [Continued development](#continued-development)
   - [Author](#author)
   - [Acknowledgments](#acknowledgments)
 
@@ -42,10 +41,6 @@ Users should be able to:
 - [React](https://react.dev/) - JS library
 - [Tailwind CSS](https://tailwindcss.com/) - CSS Framework
 - [Vite](https://vitejs.dev) - Next Generation Frontend Tool
-
-### Continued development
-
-I'll be writing my next project with Svelte and you should check it out.
 
 ## Author
 
