@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/result-summary-component-using-react-tailwindcss-and-vite-fEIAAvoYgz)
+- Live Site URL: [Github Pages](https://zenitsuag.github.io/results-summary-component-/)
 
 ## My process
 
